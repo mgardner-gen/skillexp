@@ -1,1 +1,3 @@
-Skill(\"Van_Renter\") > 0 & LanguageSkill(\"English\") > 0
+{
+  "value": "Skill(\"Van_Renter\") > 0 & LanguageSkill(\"English\") > 0"
+}
